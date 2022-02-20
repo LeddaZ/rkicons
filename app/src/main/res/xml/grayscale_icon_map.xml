@@ -228,6 +228,7 @@
     <icon drawable="@drawable/ovinfo" package="nl.skywave.ovinfo" name="OVinfo" />
     <icon drawable="@drawable/paypal" package="com.paypal.android.p2pmobile" name="PayPal" />
     <icon drawable="@drawable/personal_safety" package="com.google.android.apps.safetyhub" name="Personal Safety" />
+    <icon drawable="@drawable/photomath" package="com.microblink.photomath" name="Photomath" />
     <icon drawable="@drawable/pinterest" package="com.pinterest" name="Pinterest" />
     <icon drawable="@drawable/pixel_tips" package="com.google.android.apps.tips" name="Pixel Tips" />
     <icon drawable="@drawable/picpay" package="com.picpay" name="PicPay" />
