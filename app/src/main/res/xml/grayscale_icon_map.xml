@@ -229,7 +229,6 @@
     <icon drawable="@drawable/osmand_plus" package="net.osmand.plus" name="OsmAnd+" />
     <icon drawable="@drawable/oto_music" package="com.piyush.music" name="Oto Music" />
     <icon drawable="@drawable/ovinfo" package="nl.skywave.ovinfo" name="OVinfo" />
-    <icon drawable="@drawable/telegram" package="it.owlgram.android" name="OwlGram" />
     <icon drawable="@drawable/paypal" package="com.paypal.android.p2pmobile" name="PayPal" />
     <icon drawable="@drawable/personal_safety" package="com.google.android.apps.safetyhub" name="Personal Safety" />
     <icon drawable="@drawable/photomath" package="com.microblink.photomath" name="Photomath" />
